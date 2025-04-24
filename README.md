@@ -16,6 +16,8 @@
 - padding,	        Tamaño del relleno	    
 - margin,	        Ancho de los margenes	
 - border-style,	    Estilo del borde	    
-- border-radius,	    Curvatura del borde	    
+- border-radius,	    Curvatura del borde	  
 
-![image](https://github.com/user-attachments/assets/462aae70-6994-475d-b773-0736f81fcf9f)
+
+<image  src="https://origin.cronosmedia.glr.pe/large/2021/05/29/lg_60b2418e7e935c64a01bcbc6.jpg" alt="Papa Huancaina" width="300">
+
