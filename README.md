@@ -17,3 +17,5 @@
 - margin,	        Ancho de los margenes	
 - border-style,	    Estilo del borde	    
 - border-radius,	    Curvatura del borde	    
+
+![image](https://github.com/user-attachments/assets/462aae70-6994-475d-b773-0736f81fcf9f)
