@@ -1,8 +1,7 @@
 # Bitácora Técnica
 ---
 ## Etiquetas HTML semánticas:
-- header
-La sección de encabezado de un sitio web generalmente se encuentra en la parte superior este. 
+- header, La sección de encabezado de un sitio web generalmente se encuentra en la parte superior este. 
 - <footer></footer>
 El **<footer></footer>** funciona de forma similar al <header></header>, salvo que el pie de página por lo general se encuentra en la parte inferior de cualquier página web.
 - <main></main>
