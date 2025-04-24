@@ -2,11 +2,9 @@
 ---
 ## Etiquetas HTML semánticas:
 - header, La sección de encabezado de un sitio web generalmente se encuentra en la parte superior este. 
-- <footer></footer> El **<footer></footer>** funciona de forma similar al <header></header>, salvo que el pie de página por lo general se encuentra en la parte inferior de cualquier página web.
-- <main></main>
-Cuando eliges usar la etiqueta de elemento <main></main>, te refieres al cuerpo principal del texto o contenido del diseño de un sitio web.
-- <section></section>
- Una etiqueta <section></section>, por otro lado, se usa típicamente para agrupar más de una pieza o sección de contenido.
+- footer funciona de forma similar al <header></header>, salvo que el pie de página por lo general se encuentra en la parte inferior de cualquier página web.
+- main, Cuando eliges usar la etiqueta de elemento <main></main>, te refieres al cuerpo principal del texto o contenido del diseño de un sitio web.
+- section, Una etiqueta <section></section>, por otro lado, se usa típicamente para agrupar más de una pieza o sección de contenido.
 ---
 ## Propiedades de CSS:
 - color	            Color del texto	        RGB | HSL | HEX | nombre del color | RGBA | HSLA
