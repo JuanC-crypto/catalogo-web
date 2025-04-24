@@ -1,10 +1,10 @@
-# Bitácora Técnica
+# **Bitácora Técnica**
 ---
 ## Etiquetas HTML semánticas:
-- header, La sección de encabezado de un sitio web generalmente se encuentra en la parte superior este. 
-- footer funciona de forma similar al <header></header>, salvo que el pie de página por lo general se encuentra en la parte inferior de cualquier página web.
-- main, Cuando eliges usar la etiqueta de elemento <main></main>, te refieres al cuerpo principal del texto o contenido del diseño de un sitio web.
-- section, Una etiqueta <section></section>, por otro lado, se usa típicamente para agrupar más de una pieza o sección de contenido.
+- **header**, La sección de encabezado de un sitio web generalmente se encuentra en la parte superior este. 
+- **footer** funciona de forma similar al <header></header>, salvo que el pie de página por lo general se encuentra en la parte inferior de cualquier página web.
+- **main**, Cuando eliges usar la etiqueta de elemento <main></main>, te refieres al cuerpo principal del texto o contenido del diseño de un sitio web.
+- **section**, se usa típicamente para agrupar más de una pieza o sección de contenido.
 ---
 ## Propiedades de CSS:
 - color,            Color del texto	        
