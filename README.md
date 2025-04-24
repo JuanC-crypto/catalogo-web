@@ -19,5 +19,5 @@
 - border-radius,	    Curvatura del borde	  
 
 
-<image  src="https://github.com/user-attachments/assets/462aae70-6994-475d-b773-0736f81fcf9f" alt="Pagina" width="600">
+<image  src="https://github.com/user-attachments/assets/462aae70-6994-475d-b773-0736f81fcf9f](https://github.com/JuanC-crypto/catalogo-web/blob/main/pagina.jpg?raw=true" alt="Pagina" width="600">
 
